@@ -1,4 +1,5 @@
 # DIY Piano RGB LED Visualizer with Arduino and WS2812
+## Youtube 14K Views: https://www.youtube.com/watch?v=mA_5OwJWiMQ&t=41s
 
 This tutorial will guide you through creating a DIY Piano RGB LED Visualizer using Arduino and WS2812. No professional tools are required, making it a great project for beginners.
 
